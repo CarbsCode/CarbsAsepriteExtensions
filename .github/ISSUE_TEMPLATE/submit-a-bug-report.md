@@ -25,9 +25,9 @@ If applicable, add screenshots / a link to a video or a gif to help explain the 
 
 **System Information (please complete the following information):**
  - Operating System: [e.g. Windows 10, Linux, iOS]
- - Aseprite Version:
- - Tool / Extension Version:
-
+ - Aseprite Version: [e.g 1.2.22, 1.3-beta18]
+ - Tool + Tool Version: [e.g Carbs Toolbar v3.0.0]
+ - Size of Canvas (Width x Height): [e.g 480 x 360]
 
 **Additional context**
 Add any other context about the problem here.
